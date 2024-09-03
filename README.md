@@ -72,3 +72,7 @@ Notes
 Ensure the dataset is properly organized into training and validation sets before running the script.
 Adjust the number of clusters (k) in KMeans as needed. The script currently uses k=500.
 The script suppresses specific warnings related to image profiles for cleaner output.
+cv2(1) file has recognition part elaborated.
+
+
+
